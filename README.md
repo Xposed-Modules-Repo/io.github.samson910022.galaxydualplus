@@ -1,4 +1,4 @@
-# Galaxy Dual Plus (experimental beta)
+# Dual Clone Plus — BBC Helper (experimental beta)
 
 Version: `0.1.0-beta.2` (versionCode `3`), signed single APK (companion app + LSPosed module), libxposed API 102, Samsung One UI / Android multi-user.
 
