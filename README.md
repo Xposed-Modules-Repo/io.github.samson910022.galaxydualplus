@@ -2,6 +2,8 @@
 
 Version: `0.1.0-beta.2` (versionCode `3`), signed single APK (companion app + LSPosed module), libxposed API 102, Samsung One UI / Android multi-user.
 
+**Names:** the XMR module display name is "Dual Clone Plus — BBC Helper"; the installed app label is "Dual your Galaxy". They refer to the same signed APK under package `io.github.samson910022.galaxydualplus`.
+
 **Identity notice — read before installing.** This Xposed-Modules-Repo release is the `io.github.samson910022.galaxydualplus` build. An earlier experimental build used `com.galaxydual.plus`; the two are **separate apps and separate LSPosed modules**. **Do not install or enable both at the same time.** Back up anything you care about, uninstall the old `com.galaxydual.plus` APK and disable its LSPosed module before installing this one. Both are experimental betas with the same disclosed limitations: Samsung may delete the dual clone and its data, the cause is unconfirmed, and this module makes **no data-safety guarantee**.
 
 ## What it does
